@@ -4,10 +4,9 @@
 3. customization
 
 # disadvantages:
-1. cahllenging for beginners
+1. challenging for beginners
 2. cost of features
 3. security
-
 
 [Conclusion](Conclusion.md)
 
